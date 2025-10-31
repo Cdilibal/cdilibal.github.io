@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/iomt_wearable
 excerpt: 'Authors: <strong>C. Dilibal</strong>, B. L. Davis, C. Chakraborty'
-date: 2024-02-17
+date: 2021-06-11
 venue: 'IEEE Human-Computer Interaction and Robotic Applications (HORA) International'
 paperurl: 'https://ieeexplore.ieee.org/document/9461370'
 ---
