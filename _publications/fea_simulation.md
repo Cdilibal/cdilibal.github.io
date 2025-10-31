@@ -3,7 +3,7 @@ title: "Automated FEA Simulation with ML Algorithms for Self-Driving Additive Ma
 collection: publications
 category: in_preparation
 permalink: /publication/fea_simulation
-excerpt: 'TBD'
+excerpt: 'Authors: <strong>C. Dilibal</strong>, A. R. Lanba, A. Kordijazi'
 date: 2025-12-31
 ---
 
