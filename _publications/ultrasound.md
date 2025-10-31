@@ -3,11 +3,9 @@ title: "Immersive Real-Time 3D Ultrasound Imaging in Augmented Reality: Contextu
 collection: publications
 category: in_submission
 permalink: /publication/ultrasound
-excerpt: 'This paper is currently in submission.'
+excerpt: 'Authors: J. F. Hou, S. Viswanath, <strong>C. Dilibal</strong>, T. Shende, B. Wu, C. Dagdeviren'
 date: 2025-12-31
 venue: 'Science Translational Medicine'
-slidesurl: 'TBD'
-paperurl: 'TBD'
-bibtexurl: 'TBD'
 ---
+
 Contents TBD.
