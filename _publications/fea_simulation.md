@@ -5,10 +5,6 @@ category: in_preparation
 permalink: /publication/fea_simulation
 excerpt: 'TBD'
 date: 2025-12-31
-venue: 'TBD'
-slidesurl: 'TBD'
-paperurl: 'TBD'
-citation: 'TBD'
 ---
 
-Description TBD
+This paper is currently in preparation.
