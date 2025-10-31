@@ -1,5 +1,5 @@
 ---
-title: “Theoretical Framework for Vision-Language Model (VLM) and Digital Twin Integration for Enhanced Offline Programming (OLP) in Industrial Robotics"
+title: "Theoretical Framework for Vision-Language Model (VLM) and Digital Twin Integration for Enhanced Offline Programming (OLP) in Industrial Robotics"
 collection: publications
 category: in_preparation
 permalink: /publication/vlm_digital_twin
