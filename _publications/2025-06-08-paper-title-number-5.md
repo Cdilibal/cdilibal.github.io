@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Generative Design Methodology for Internet of Medical Things (IoMT)-based Wearable Biomedical Devices"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+category: published
+permalink: /publication/iomt_wearable
+excerpt: 'Authors: <strong>C. Dilibal</strong>, B. L. Davis, C. Chakraborty'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'IEEE Human-Computer Interaction and Robotic Applications (HORA) International'
+paperurl: 'https://ieeexplore.ieee.org/document/9461370'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Abstract: Application-driven generative design concept produces multiple solutions in varied fields in the industry. Generative design is an iterative design process that involves a machine learning algorithm that creates varied outputs that meet pre-determined constraints. This methodology provides an efficient tool for creating different design options for biomedical devices. Biomedical devices need different functionality and complexity. The generative design combined with additive manufacturing increases the functionality of the biomedical device with reduced material and total cost. Using artificial intelligence (AI) algorithm and the cloud, generative design enables to develop creative design options for the internet of medical things (IoMT)-based biomedical devices. In this study, the crucial role of generative design methodology is revealed for creating functional IoMT-based biomedical devices.
